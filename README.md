@@ -1,4 +1,6 @@
-#PRACTICE 4
+#PRACTICE 4 Genetic Algorithm
+#Melanie Sasari Alborta
+#Lineth Arraya Ayaviri
 
 Description of the problem.
 With a genetic algorithm, we need to create a new generation of chromosomes starting with an initial population of 100 chromosomes, randomly generated. The objective is to find the most powerful chromosome and make the new generation more powerful than the first one.
