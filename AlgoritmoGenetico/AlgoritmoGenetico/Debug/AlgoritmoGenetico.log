@@ -1,0 +1,11 @@
+﻿  AlgoritmoGenetico.cpp
+C:\Users\LINETH\Source\Repos\AlgoritmoGenetico\AlgoritmoGenetico\Cromosoma.h(41,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\LINETH\Source\Repos\AlgoritmoGenetico\AlgoritmoGenetico\Poblacion.h(69,10): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\LINETH\Source\Repos\AlgoritmoGenetico\AlgoritmoGenetico\Poblacion.h(80,20): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\LINETH\Source\Repos\AlgoritmoGenetico\AlgoritmoGenetico\AlgoritmoGenetico.cpp(49,15): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\LINETH\Source\Repos\AlgoritmoGenetico\AlgoritmoGenetico\AlgoritmoGenetico.cpp(50,17): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\LINETH\Source\Repos\AlgoritmoGenetico\AlgoritmoGenetico\AlgoritmoGenetico.cpp(57,17): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\LINETH\Source\Repos\AlgoritmoGenetico\AlgoritmoGenetico\AlgoritmoGenetico.cpp(63,15): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\LINETH\Source\Repos\AlgoritmoGenetico\AlgoritmoGenetico\AlgoritmoGenetico.cpp(70,15): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\LINETH\Source\Repos\AlgoritmoGenetico\AlgoritmoGenetico\AlgoritmoGenetico.cpp(71,17): warning C4305: '=': truncamiento de 'double' a 'float'
+  AlgoritmoGenetico.vcxproj -> C:\Users\LINETH\Source\Repos\AlgoritmoGenetico\Debug\AlgoritmoGenetico.exe
