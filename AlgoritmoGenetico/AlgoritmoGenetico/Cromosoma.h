@@ -1,5 +1,7 @@
 #pragma once
 #include <iostream>
+#include <stdlib.h>
+#include <stdio.h>
 #include <ctime>
 using namespace std;
 #define TAM 20
@@ -33,7 +35,7 @@ void Cromosoma::mostrarGenes()
 {
 	for (int i = 0; i < TAM; i++)
 	{
-		cout << genes[0] << " ";
+		cout << genes[i] << " ";
 	}
 }
 void Cromosoma::crearCromosomaRandom()
@@ -41,14 +43,7 @@ void Cromosoma::crearCromosomaRandom()
 	srand(time(NULL));
 	for (int i = 0; i < TAM; i++)
 	{
-		if (rand() % (1 - 0 + 1) + 0 < 1 / 2)
-		{
-			genes[i] = 0;
-		}
-		else
-		{
-			genes[i] = 1;
-		}
+	     genes[i]=rand()%2; 
 	}
 }
 int Cromosoma::calcularfuerza()
